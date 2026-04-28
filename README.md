@@ -1,4 +1,8 @@
-# 🛡️ Cybersecurity Toolkit
+<p align="center">
+  <img src="docs/assets/idexa-icon.png" alt="Idexa Formación" width="80" />
+</p>
+
+<h1 align="center">Kit de Herramientas Ciberseguridad</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -142,6 +146,12 @@ En `templates/`:
 ---
 
 ## 🎓 Formación en Ciberseguridad — Cursos Idexa
+
+<p align="center">
+  <a href="https://idexaformacion.com/cursos/ciberseguridad/">
+    <img src="https://idexaformacion.com/wp-content/uploads/2023/04/Capa-2.svg" alt="Idexa Formación" width="200" />
+  </a>
+</p>
 
 Si quieres profundizar más allá de estas herramientas y entender el **porqué** detrás de cada control, en [**Idexa Formación**](https://idexaformacion.com/cursos/ciberseguridad/) ofrecemos formación práctica orientada a empresas y profesionales.
 
