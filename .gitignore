@@ -1,0 +1,33 @@
+# Resultados de scans y auditorías (no subir a git)
+scan-results/
+audit-results/
+triage_*/
+logs_*.tar.gz
+ioc-search_*.txt
+
+# Backups
+*.bak
+*.bak.*
+
+# Credenciales y secretos (jamás)
+*.key
+*.pem
+.env
+.env.*
+secrets/
+credentials/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs locales
+*.log

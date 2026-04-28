@@ -1,0 +1,18 @@
+# Archivo de ejemplo de IOCs para usar con scripts/incident-response/ioc-search.sh
+# Formato: tipo:valor (un IOC por línea)
+# Líneas que empiezan por # se ignoran.
+
+# --- Hashes (SHA-256) ---
+# hash:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+# --- Direcciones IP sospechosas ---
+# ip:192.0.2.10
+# ip:198.51.100.42
+
+# --- Dominios maliciosos ---
+# domain:dominio-malicioso.example
+# domain:phishing-site.example
+
+# --- Procesos sospechosos ---
+# process:cryptominer
+# process:reverse_shell
