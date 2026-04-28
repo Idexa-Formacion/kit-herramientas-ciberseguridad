@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="docs/assets/idexa-icon.png" alt="Idexa Formación" width="80" />
+  <a href="https://idexaformacion.com/cursos/ciberseguridad/">
+    <img src="https://idexaformacion.com/wp-content/uploads/2023/04/Capa-2.svg" alt="Idexa Formación" width="200" />
+  </a>
 </p>
 
 <h1 align="center">Kit de Herramientas Ciberseguridad</h1>
